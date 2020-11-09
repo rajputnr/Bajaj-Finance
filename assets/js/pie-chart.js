@@ -318,7 +318,7 @@ if ($('#highpiechart5').length) {
             type: 'pie'
         },
         title: {
-            text: '(FY21-Q2 Profile)'
+            text: '(Q2 FY21 Profile)'
         },
         tooltip: {
             pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
